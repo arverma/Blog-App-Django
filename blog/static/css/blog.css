@@ -32,6 +32,12 @@ h1, h2, h3, h4 {
     float: right;
 }
 
+.story{
+  text-align: justify; /* For Edge */
+  -moz-text-align-last: justify; /* For Firefox prior 58.0 */
+  text-align-last: justify;
+}
+
 .post-form textarea, .post-form input {
     width: 100%;
 }
