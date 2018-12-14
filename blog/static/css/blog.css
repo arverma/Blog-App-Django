@@ -33,9 +33,9 @@ h1, h2, h3, h4 {
 }
 
 .story{
-  text-align: justify; /* For Edge */
-  -moz-text-align-last: justify; /* For Firefox prior 58.0 */
-  text-align-last: justify;
+    text-align: justify; /* For Edge */
+    -moz-text-align-last: center; /* For Firefox prior 58.0 */
+    text-align-last: center;
 }
 
 .post-form textarea, .post-form input {
