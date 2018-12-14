@@ -3,8 +3,9 @@ h1 a, h2 a {
 }
 
 .page-header {
-    background-color: #00807D;
+    background-color: #005580;
     margin-top: 0;
+    text-align: center;
     padding: 20px 20px 20px 40px;
 }
 
@@ -24,6 +25,7 @@ h1, h2, h3, h4 {
 
 .date {
     color: #828282;
+    float: right;
 }
 
 .save {
